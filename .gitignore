@@ -3,3 +3,5 @@
 *.ipynb_checkpoints/
 Lab 1 Data/
 data/
+#I've added this - will it work though?
+lab3/data
